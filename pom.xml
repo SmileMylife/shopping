@@ -13,6 +13,8 @@
         <module>shopping-integral</module>
         <module>shopping-order</module>
         <module>shopping-dubbo-common</module>
+        <module>shopping-java-test</module>
+        <module>shopping-product</module>
     </modules>
 
     <properties>
