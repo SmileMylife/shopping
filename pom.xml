@@ -16,6 +16,7 @@
         <module>shopping-java-test</module>
         <module>shopping-product</module>
         <module>shopping-util</module>
+        <module>shopping-common</module>
     </modules>
 
     <properties>
