@@ -1,4 +1,4 @@
-package com.example.integral;
+package com.taobao.integral;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

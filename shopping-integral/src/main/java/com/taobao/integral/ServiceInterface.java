@@ -1,4 +1,4 @@
-package com.example.integral;
+package com.taobao.integral;
 
 public interface ServiceInterface {
     void sayHello();

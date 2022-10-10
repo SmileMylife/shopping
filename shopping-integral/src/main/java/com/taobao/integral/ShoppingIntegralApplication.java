@@ -1,4 +1,4 @@
-package com.example.integral;
+package com.taobao.integral;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
